@@ -1,2 +1,2 @@
-# C-GradeBook
-C# | Data Structures &amp; Algorithms
+# C# GradeBook App
+
