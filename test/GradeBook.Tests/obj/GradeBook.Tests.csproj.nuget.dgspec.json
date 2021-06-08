@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {}
+    "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\test\\GradeBook.Tests\\GradeBook.tests.csproj": {}
   },
   "projects": {
     "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
@@ -62,12 +62,12 @@
         }
       }
     },
-    "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj": {
+    "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\test\\GradeBook.Tests\\GradeBook.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
-        "projectName": "GradeBook.Tests",
-        "projectPath": "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\test\\GradeBook.Tests\\GradeBook.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\test\\GradeBook.Tests\\GradeBook.tests.csproj",
+        "projectName": "GradeBook.tests",
+        "projectPath": "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\test\\GradeBook.Tests\\GradeBook.tests.csproj",
         "packagesPath": "C:\\Users\\MXGalas\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\test\\GradeBook.Tests\\obj\\",
         "projectStyle": "PackageReference",
