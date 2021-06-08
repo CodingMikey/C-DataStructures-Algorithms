@@ -6,23 +6,71 @@ namespace GradeBook.Tests
     public class TypeTests
     {
         [Fact]
-        public void CSharpIsPassByValue()
+        public void StringsBehaveLikeValueTypes()
+        {
+            string name = "Mike";
+            var upperCase = MakeUpperCase(name);
+
+            Assert.Equal("Mike", name);
+            Assert.Equal("MIKE", upperCase);
+        }
+
+        private string MakeUpperCase(string parameter)
+        {
+            return parameter.ToUpper();
+        }
+
+        [Fact]
+        public void ValueTypesAlsoPassByValue()
+        {
+            var x = GetInt();
+            SetInt(ref x);
+
+            Assert.Equal(42, x);
+        }
+
+        private void SetInt(ref int z)
+        {
+            z = 42;
+        }
+        private int GetInt()
+        {
+            return 3;
+        }
+
+        [Fact]
+        public void CSharpCanPassByRef()
         {
             // arrange
             var book1 = GetBook("Book 1");
-            GetBookSetName(book1, "New Name");
+            
             // act
-
+            GetBookSetName(out book1, "New Name");
 
             // assert
             Assert.Equal("New Name", book1.Name);
+        }
+        private void GetBookSetName(out Book book, string name)
+        {
+            book = new Book(name);
+        }
 
+        [Fact]
+        public void CSharpIsPassByValue()
+        {
+            // arrange
+            var book1 = GetBook("New Name");
+            
+            // act
+            GetBookSetName(book1, "New Name");
+
+            // assert
+            Assert.Equal("New Name", book1.Name);
         }
 
         private void GetBookSetName(Book book, string name)
         {
             book = new Book(name);
-            book.Name = name;
         }
 
         [Fact]
@@ -30,9 +78,9 @@ namespace GradeBook.Tests
         {
             // arrange
             var book1 = GetBook("Book 1");
-            SetName(book1, "New Name");
+            
             // act
-
+            SetName(book1, "New Name");
 
             // assert
             Assert.Equal("New Name", book1.Name);
