@@ -27,7 +27,7 @@ namespace GradeBook
                 highGrade = Math.Max(number, highGrade);
                 result += number;
             }
-            result /= result / grades.Count;
+            result /= grades.Count;
             Console.WriteLine($"The highest grade is {highGrade}");
             Console.WriteLine($"The lowest grade is {lowGrade}");
             Console.WriteLine($"The average grade is {result:N1}");
