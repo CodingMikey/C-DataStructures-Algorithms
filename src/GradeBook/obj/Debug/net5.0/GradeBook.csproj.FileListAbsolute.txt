@@ -14,3 +14,19 @@ C:\Users\MXGalas\Desktop\Study\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBoo
 C:\Users\MXGalas\Desktop\Study\gradebook\src\GradeBook\obj\Debug\net5.0\ref\GradeBook.dll
 C:\Users\MXGalas\Desktop\Study\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.pdb
 C:\Users\MXGalas\Desktop\Study\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\bin\Debug\net5.0\GradeBook.exe
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\bin\Debug\net5.0\GradeBook.deps.json
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\bin\Debug\net5.0\GradeBook.dll
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\bin\Debug\net5.0\ref\GradeBook.dll
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\bin\Debug\net5.0\GradeBook.pdb
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\obj\Debug\net5.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\obj\Debug\net5.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\obj\Debug\net5.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\obj\Debug\net5.0\GradeBook.AssemblyInfo.cs
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\obj\Debug\net5.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\obj\Debug\net5.0\GradeBook.dll
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\obj\Debug\net5.0\ref\GradeBook.dll
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\obj\Debug\net5.0\GradeBook.pdb
+C:\Users\mgala\OneDrive\Desktop\Coding Stuff\C-GradeBook\src\gradebook\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache

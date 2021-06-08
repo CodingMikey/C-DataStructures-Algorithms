@@ -8,23 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MXGalas\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\mgala\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+      "projectUniqueName": "C:\\Users\\mgala\\OneDrive\\Desktop\\Coding Stuff\\C-GradeBook\\src\\gradebook\\GradeBook.csproj",
       "projectName": "GradeBook",
-      "projectPath": "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\src\\GradeBook\\GradeBook.csproj",
-      "packagesPath": "C:\\Users\\MXGalas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MXGalas\\Desktop\\Study\\gradebook\\src\\GradeBook\\obj\\",
+      "projectPath": "C:\\Users\\mgala\\OneDrive\\Desktop\\Coding Stuff\\C-GradeBook\\src\\gradebook\\GradeBook.csproj",
+      "packagesPath": "C:\\Users\\mgala\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mgala\\OneDrive\\Desktop\\Coding Stuff\\C-GradeBook\\src\\gradebook\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\MXGalas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mgala\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,8 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.pkg.github.com/kehe/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
